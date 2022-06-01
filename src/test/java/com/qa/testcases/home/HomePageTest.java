@@ -19,6 +19,11 @@ public class HomePageTest extends TestBase{
     }
 
     @Test
+    public void validatePageTitle(){
+        Assert.assertTrue( true );
+    }
+
+    @Test
     public void validateHomePageLOGO(){
         Assert.assertTrue( true );
     }
